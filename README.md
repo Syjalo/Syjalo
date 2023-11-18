@@ -13,4 +13,4 @@
 
 # My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,mongo,heroku,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,nodejs,deno,react,nextjs,tailwind,postgres,mysql,mongo,cloudflare,planetscale,heroku,discord,vscode&perline=8)](https://skillicons.dev)
